@@ -1,3 +1,4 @@
+# olá galerinha está ai uma  calculado bem simples...
 print("Calculadora simples:\n")
 print("lets calculate 1+2=3 2*1=2  \n")
 
